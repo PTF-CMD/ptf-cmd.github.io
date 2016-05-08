@@ -1,0 +1,46 @@
+header {
+	padding: 20vh;
+	transition: 0.2s;
+}
+
+h1 {
+	padding: 5vh;
+}
+
+.main-div {
+	margin: auto;
+	width: 60vw;
+	text-align: center;
+}
+
+button {
+	margin: 10px 0;
+}
+
+h6 {
+	padding: 10px 0;
+}
+
+
+li {
+	list-style: none;
+	height: 40px;
+	border-bottom: 1px solid #EAEAEA;
+	text-align: left;
+}
+
+li span {
+	line-height: 40px;
+}
+
+li:hover {
+	text-decoration: line-through;
+	cursor: pointer;
+}
+
+.btn-agregar-hover {
+	color: #FFF;
+	background-color: #449D44;
+	border-color: #398439;
+	transition: 0.2s;
+}
