@@ -1,0 +1,37 @@
+body {
+	font-family: Montserrat;
+	font-weight: 400;
+	text-align: center;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 40px;
+}
+
+p {
+	color: gray;
+}
+
+header {
+	padding: 10vh;
+}
+
+.box {
+	margin: 10vh 0;
+}
+
+button {
+	color: gray;
+	width: 70px;
+	height: 40px;
+	border: 1px solid gray;
+	margin: 10px;
+}
+
+button:hover {
+	cursor: pointer;
+	border-bottom: 2px solid gray;
+	transition: 0.2s;
+}
+
